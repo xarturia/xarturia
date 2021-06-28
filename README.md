@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/xarturia?style=social)](https://github.com/xarturia?tab=followers)
 
-<a href="t.me/MeguRobot"><img alt="Telegram" src="https://img.shields.io/endpoint?label=Megu%20Robot%20Channel&style=flat-square&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2FMeguRobotChannel"/></a>
+<a href="https://t.me/MeguRobot"><img alt="Telegram" src="https://img.shields.io/endpoint?label=Megu%20Robot%20Channel&style=flat-square&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2FMeguRobotChannel"/></a>
 
 
 🎊 Hello world!
