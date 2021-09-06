@@ -8,7 +8,7 @@
 🎊 Hello world!
 
 - :hammer_and_pick: JavaScript / PY / CSS / SASS / HTML5
-- :package: Building [MeguBot](https://github.com/xarturia/MeguBot).
+- :package: Building [MeguBot](https://github.com/xarturia/MeguBot), [xarturiastream](https://github.com/xarturia/jscoder).
 - :pencil2: w10 LTSC / DeepinOS & VSCode & JetBrains.
 - :memo: [Telegram](https://t.me/Diclonius).
 
